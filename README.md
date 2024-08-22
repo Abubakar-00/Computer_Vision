@@ -8,10 +8,9 @@ I have use "medium" alot for understanding a lot of concepts. I have read about 
 
 I learned a lot form this course, objectives are shown below.
 
-I think you should have need a lot of things as pre requisites for this course. 
-  1. Good data analysis skills.
-  2. Mathematical understanding of Neural Network
-  3. Should know how to code in python
+I think you need a lot of things as pre requisites for this course. 
+  1. Good data Analysis skills and Machine Learning.
+  2. Mathematical understanding of Neural Network.
 
 # Things I learned:
   1. TensorFlow Library
